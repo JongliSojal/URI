@@ -1,3 +1,3 @@
-# uri
+# URI solutions Volume 001
 
- This is my personal solutions of some URI problems that I tried and got accepted. Obviously they are not the best solutions !
+ This is my personal solutions of some URI problems that I tried at my young age and got accepted. Obviously they are not the best solutions !
